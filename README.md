@@ -16,7 +16,7 @@ This is the about page. Here you can learn more about me and my background.
 
 ### Resume
 
-This is the resume page. Here you can view my professional experience and qualifications.
+This is the resume page. Here you can view my personal education and qualifications.
 
 ### Works
 
