@@ -1,6 +1,6 @@
 # My Personal Website
 
-Welcome to my personal website built with ReactJS!
+Welcome to my personal website built with ReactJS! You can visit the deployed website here: [yulius-setyawan.netlify.app](https://yulius-setyawan.netlify.app)
 
 ![Website Preview](./myporto.PNG)
 
