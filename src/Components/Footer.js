@@ -21,7 +21,7 @@ class Footer extends Component {
             <div className="twelve columns">
               <ul className="social-links">{networks}</ul>
               <ul className="copyright">
-                <li>&copy; Copyright 2022 Mutia Rahmatun Husna</li>
+                <li>&copy; Copyright 2023</li>
                 <li>
                   Design by{" "}
                   <a title="Styleshout" href="http://www.styleshout.com/">
